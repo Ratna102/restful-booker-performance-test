@@ -1,0 +1,984 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1790313130180,1033,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,2,2,null,0,5016,787
+1790313135194,1033,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,2,2,https://restful-booker.herokuapp.com/auth,1033,0,787
+1790313136228,251,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,947,523,2,2,null,0,5005,0
+1790313141232,251,Booking Request,200,OK,Thread Group 1-1,text,true,,947,523,2,2,https://restful-booker.herokuapp.com/booking,251,0,0
+1790313136177,956,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,2,2,null,0,5010,720
+1790313141187,956,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,2,2,https://restful-booker.herokuapp.com/auth,956,0,720
+1790313141484,249,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,931,246,3,3,null,0,5001,0
+1790313146485,249,Retrival Request,200,OK,Thread Group 1-1,text,true,,931,246,3,3,https://restful-booker.herokuapp.com/booking/671,249,0,0
+1790313142143,255,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,963,523,3,3,null,0,5001,0
+1790313147144,255,Booking Request,200,OK,Thread Group 1-2,text,true,,963,523,3,3,https://restful-booker.herokuapp.com/booking,255,0,0
+1790313142175,1049,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,766,323,4,4,null,0,5006,807
+1790313147181,1049,Authorization Request,200,OK,Thread Group 1-3,text,true,,766,323,4,4,https://restful-booker.herokuapp.com/auth,1049,0,807
+1790313147399,278,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,919,246,4,4,null,0,5014,0
+1790313152413,278,Retrival Request,200,OK,Thread Group 1-2,text,true,,919,246,4,4,https://restful-booker.herokuapp.com/booking/720,278,0,0
+1790313146735,1185,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,766,323,4,4,null,0,5018,895
+1790313151752,1185,Authorization Request,200,OK,Thread Group 1-1,text,true,,766,323,4,4,https://restful-booker.herokuapp.com/auth,1185,0,895
+1790313148230,282,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,951,523,4,4,null,0,5012,0
+1790313153242,282,Booking Request,200,OK,Thread Group 1-3,text,true,,951,523,4,4,https://restful-booker.herokuapp.com/booking,282,0,0
+1790313148176,4322,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5004,3975
+1790313153180,4322,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,4322,0,3975
+1790313152938,256,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,959,523,5,5,null,0,5017,0
+1790313157956,256,Booking Request,200,OK,Thread Group 1-1,text,true,,959,523,5,5,https://restful-booker.herokuapp.com/booking,256,0,0
+1790313152691,1171,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,778,323,5,5,null,0,5004,788
+1790313157696,1171,Authorization Request,200,OK,Thread Group 1-2,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,1171,0,788
+1790313153524,3032,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,931,246,5,5,null,0,5016,0
+1790313158541,3032,Retrival Request,200,OK,Thread Group 1-3,text,true,,931,246,5,5,https://restful-booker.herokuapp.com/booking/770,3032,0,0
+1790313157503,266,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,951,523,5,5,null,0,5000,0
+1790313162503,266,Booking Request,200,OK,Thread Group 1-4,text,true,,951,523,5,5,https://restful-booker.herokuapp.com/booking,266,0,0
+1790313158212,265,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,927,246,5,5,null,0,5011,0
+1790313163223,265,Retrival Request,200,OK,Thread Group 1-1,text,true,,927,246,5,5,https://restful-booker.herokuapp.com/booking/814,265,0,0
+1790313158867,278,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,951,523,5,5,null,0,5005,0
+1790313163872,278,Booking Request,200,OK,Thread Group 1-2,text,true,,951,523,5,5,https://restful-booker.herokuapp.com/booking,278,0,0
+1790313154179,5397,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,770,323,5,5,null,0,5003,5134
+1790313159183,5397,Authorization Request,200,OK,Thread Group 1-5,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,5397,0,5134
+1790313161573,1028,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,766,323,5,5,null,0,5009,774
+1790313166582,1028,Authorization Request,200,OK,Thread Group 1-3,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1028,0,774
+1790313162769,272,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,919,246,5,5,null,0,5002,0
+1790313167771,272,Retrival Request,200,OK,Thread Group 1-4,text,true,,919,246,5,5,https://restful-booker.herokuapp.com/booking/854,272,0,0
+1790313164150,304,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,246,5,5,null,0,5001,0
+1790313169151,304,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,246,5,5,https://restful-booker.herokuapp.com/booking/869,304,0,0
+1790313163488,1004,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5012,765
+1790313168500,1004,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1004,0,765
+1790313164580,280,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,951,523,5,5,null,0,5001,0
+1790313169581,280,Booking Request,200,OK,Thread Group 1-5,text,true,,951,523,5,5,https://restful-booker.herokuapp.com/booking,280,0,0
+1790313167610,266,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,951,523,5,5,null,0,5001,0
+1790313172611,266,Booking Request,200,OK,Thread Group 1-3,text,true,,951,523,5,5,https://restful-booker.herokuapp.com/booking,266,0,0
+1790313168043,955,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,774,323,5,5,null,0,5019,712
+1790313173061,955,Authorization Request,200,OK,Thread Group 1-4,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,955,0,712
+1790313169504,257,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,947,523,5,5,null,0,5002,0
+1790313174506,257,Booking Request,200,OK,Thread Group 1-1,text,true,,947,523,5,5,https://restful-booker.herokuapp.com/booking,257,0,0
+1790313169861,309,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,246,5,5,null,0,5016,0
+1790313174876,309,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,246,5,5,https://restful-booker.herokuapp.com/booking/926,309,0,0
+1790313169455,1011,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5002,772
+1790313174457,1011,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1011,0,772
+1790313172877,259,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,246,5,5,null,0,5001,0
+1790313177878,259,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,246,5,5,https://restful-booker.herokuapp.com/booking/949,259,0,0
+1790313174017,269,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,964,523,5,5,null,0,5009,0
+1790313179026,269,Booking Request,200,OK,Thread Group 1-4,text,true,,964,523,5,5,https://restful-booker.herokuapp.com/booking,269,0,0
+1790313174763,257,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,935,246,5,5,null,0,5002,0
+1790313179765,257,Retrival Request,200,OK,Thread Group 1-1,text,true,,935,246,5,5,https://restful-booker.herokuapp.com/booking/973,257,0,0
+1790313175468,271,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5009,0
+1790313180477,271,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,271,0,0
+1790313175186,2026,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,766,323,5,5,null,0,5012,1780
+1790313180198,2026,Authorization Request,200,OK,Thread Group 1-5,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,2026,0,1780
+1790313178138,1072,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5016,804
+1790313183153,1072,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1072,0,804
+1790313179295,261,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5011,0
+1790313184305,261,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1010,261,0,0
+1790313180748,256,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5002,0
+1790313185750,256,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1023,256,0,0
+1790313180022,1058,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5011,801
+1790313185032,1058,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1058,0,801
+1790313182224,263,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,952,523,5,5,null,0,5005,0
+1790313187229,263,Booking Request,200,OK,Thread Group 1-5,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,263,0,0
+1790313184226,288,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,956,523,5,5,null,0,5006,0
+1790313189232,288,Booking Request,200,OK,Thread Group 1-3,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,288,0,0
+1790313184567,1037,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,774,323,5,5,null,0,5009,779
+1790313189576,1037,Authorization Request,200,OK,Thread Group 1-4,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1037,0,779
+1790313186091,286,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,956,523,5,5,null,0,5000,0
+1790313191092,286,Booking Request,200,OK,Thread Group 1-1,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,286,0,0
+1790313186006,999,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,774,323,5,5,null,0,5006,758
+1790313191013,999,Authorization Request,200,OK,Thread Group 1-2,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,999,0,758
+1790313187492,277,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,247,5,5,null,0,5007,0
+1790313192500,277,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1082,277,0,0
+1790313189520,278,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5012,0
+1790313194533,278,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1103,278,0,0
+1790313190614,285,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,952,523,5,5,null,0,5004,0
+1790313195617,285,Booking Request,200,OK,Thread Group 1-4,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,285,0,0
+1790313191378,286,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5013,0
+1790313196390,286,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1118,286,0,0
+1790313192012,270,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,956,523,5,5,null,0,5007,0
+1790313197019,270,Booking Request,200,OK,Thread Group 1-2,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,270,0,0
+1790313192777,1017,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,766,323,5,5,null,0,5015,775
+1790313197791,1017,Authorization Request,200,OK,Thread Group 1-5,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1017,0,775
+1790313194812,960,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5014,720
+1790313199826,960,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,960,0,720
+1790313195903,285,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5004,0
+1790313200907,285,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/1165,285,0,0
+1790313197290,258,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,927,247,5,5,null,0,5008,0
+1790313202297,258,Retrival Request,200,OK,Thread Group 1-2,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/1177,258,0,0
+1790313196678,960,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,5,5,null,0,5019,716
+1790313201697,960,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,960,0,716
+1790313198809,446,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,964,523,5,5,null,0,5008,0
+1790313203817,446,Booking Request,200,OK,Thread Group 1-5,text,true,,964,523,5,5,https://restful-booker.herokuapp.com/booking,446,0,0
+1790313200786,264,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,952,523,5,5,null,0,5013,0
+1790313205799,264,Booking Request,200,OK,Thread Group 1-3,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,264,0,0
+1790313201192,960,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5011,721
+1790313206203,960,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,960,0,721
+1790313202657,251,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,952,523,5,5,null,0,5004,0
+1790313207661,251,Booking Request,200,OK,Thread Group 1-1,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,251,0,0
+1790313202556,1022,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,774,323,5,5,null,0,5003,768
+1790313207559,1022,Authorization Request,200,OK,Thread Group 1-2,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1022,0,768
+1790313204263,262,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,919,247,5,5,null,0,5010,0
+1790313209273,262,Retrival Request,200,OK,Thread Group 1-5,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/1236,262,0,0
+1790313206063,248,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,927,247,5,5,null,0,5016,0
+1790313211078,248,Retrival Request,200,OK,Thread Group 1-3,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/1261,248,0,0
+1790313207164,260,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,948,523,5,5,null,0,5002,0
+1790313212164,260,Booking Request,200,OK,Thread Group 1-4,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,260,0,0
+1790313207913,254,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,919,247,5,5,null,0,5014,0
+1790313212926,254,Retrival Request,200,OK,Thread Group 1-1,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/1277,254,0,0
+1790313208581,270,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5001,0
+1790313213580,270,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,270,0,0
+1790313209535,1059,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,766,323,5,5,null,0,5015,801
+1790313214549,1059,Authorization Request,200,OK,Thread Group 1-5,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1059,0,801
+1790313211326,1013,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5003,765
+1790313216329,1013,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1013,0,765
+1790313212425,254,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5002,0
+1790313217427,254,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1318,254,0,0
+1790313213851,279,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,931,247,5,5,null,0,5015,0
+1790313218866,279,Retrival Request,200,OK,Thread Group 1-2,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/1326,279,0,0
+1790313213181,995,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,778,323,5,5,null,0,5011,739
+1790313218192,995,Authorization Request,200,OK,Thread Group 1-1,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,995,0,739
+1790313215608,274,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,948,523,5,5,null,0,5005,0
+1790313220614,274,Booking Request,200,OK,Thread Group 1-5,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,274,0,0
+1790313217342,268,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,952,523,5,5,null,0,5016,0
+1790313222359,268,Booking Request,200,OK,Thread Group 1-3,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,268,0,0
+1790313217681,974,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5004,735
+1790313222685,974,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,974,0,735
+1790313219187,254,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,956,523,5,5,null,0,5006,0
+1790313224194,254,Booking Request,200,OK,Thread Group 1-1,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,254,0,0
+1790313219145,972,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,774,323,5,5,null,0,5003,731
+1790313224149,972,Authorization Request,200,OK,Thread Group 1-2,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,972,0,731
+1790313220888,275,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,931,247,5,5,null,0,5001,0
+1790313225889,275,Retrival Request,200,OK,Thread Group 1-5,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/1387,274,0,0
+1790313222627,277,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5005,0
+1790313227632,277,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1402,277,0,0
+1790313223660,248,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,952,523,5,5,null,0,5007,0
+1790313228667,248,Booking Request,200,OK,Thread Group 1-4,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,248,0,0
+1790313224448,248,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,931,247,5,5,null,0,5017,0
+1790313229464,248,Retrival Request,200,OK,Thread Group 1-1,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/1417,248,0,0
+1790313225121,263,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5008,0
+1790313230128,263,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,263,0,0
+1790313226164,1010,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,766,323,5,5,null,0,5015,767
+1790313231178,1010,Authorization Request,200,OK,Thread Group 1-5,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1010,0,767
+1790313227909,988,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5020,744
+1790313232929,988,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,988,0,744
+1790313228915,247,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5008,0
+1790313233923,247,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/1466,247,0,0
+1790313230392,275,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,935,247,5,5,null,0,5004,0
+1790313235396,275,Retrival Request,200,OK,Thread Group 1-2,text,true,,935,247,5,5,https://restful-booker.herokuapp.com/booking/1478,275,0,0
+1790313229713,1023,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,782,323,5,5,null,0,5023,755
+1790313234736,1023,Authorization Request,200,OK,Thread Group 1-1,text,true,,782,323,5,5,https://restful-booker.herokuapp.com/auth,1023,0,755
+1790313232189,260,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,956,523,5,5,null,0,5015,0
+1790313237204,260,Booking Request,200,OK,Thread Group 1-5,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,260,0,0
+1790313233917,260,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,948,523,5,5,null,0,5003,0
+1790313238920,260,Booking Request,200,OK,Thread Group 1-3,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,260,0,0
+1790313234171,1022,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5012,765
+1790313239183,1022,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1022,0,765
+1790313235759,275,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,948,523,5,5,null,0,5000,0
+1790313240759,275,Booking Request,200,OK,Thread Group 1-1,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,275,0,0
+1790313235671,992,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,778,323,5,5,null,0,5019,753
+1790313240690,992,Authorization Request,200,OK,Thread Group 1-2,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,992,0,753
+1790313237465,270,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5007,0
+1790313242472,270,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/1541,270,0,0
+1790313239180,263,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,927,247,5,5,null,0,5002,0
+1790313244182,263,Retrival Request,200,OK,Thread Group 1-3,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/1559,263,0,0
+1790313240205,265,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,960,523,5,5,null,0,5018,0
+1790313245222,265,Booking Request,200,OK,Thread Group 1-4,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,265,0,0
+1790313241034,270,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,919,247,5,5,null,0,5010,0
+1790313246044,270,Retrival Request,200,OK,Thread Group 1-1,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/1573,270,0,0
+1790313241682,253,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5010,0
+1790313246692,253,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,253,0,0
+1790313242742,1019,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5006,762
+1790313247748,1019,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1019,0,762
+1790313244445,1028,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,766,323,5,5,null,0,5014,775
+1790313249459,1028,Authorization Request,200,OK,Thread Group 1-3,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1028,0,775
+1790313245488,250,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,919,247,5,5,null,0,5006,0
+1790313250494,250,Retrival Request,200,OK,Thread Group 1-4,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/1612,250,0,0
+1790313246945,259,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5011,0
+1790313251957,259,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1623,259,0,0
+1790313246314,1011,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5005,759
+1790313251320,1011,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1011,0,759
+1790313248767,260,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,952,523,5,5,null,0,5016,0
+1790313253784,260,Booking Request,200,OK,Thread Group 1-5,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,260,0,0
+1790313250488,272,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,952,523,5,5,null,0,5002,0
+1790313255490,272,Booking Request,200,OK,Thread Group 1-3,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,272,0,0
+1790313250745,984,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5011,740
+1790313255756,984,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,984,0,740
+1790313252331,266,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,948,523,5,5,null,0,5013,0
+1790313257343,266,Booking Request,200,OK,Thread Group 1-1,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,266,0,0
+1790313252216,985,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5018,734
+1790313257233,985,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,985,0,734
+1790313254044,274,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,247,5,5,null,0,5005,0
+1790313259049,274,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1681,274,0,0
+1790313255762,268,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5004,0
+1790313260766,268,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1702,268,0,0
+1790313256740,261,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,956,523,5,5,null,0,5014,0
+1790313261754,261,Booking Request,200,OK,Thread Group 1-4,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,261,0,0
+1790313257610,273,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5012,0
+1790313262621,273,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1718,273,0,0
+1790313258219,242,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,956,523,5,5,null,0,5008,0
+1790313263226,242,Booking Request,200,OK,Thread Group 1-2,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,242,0,0
+1790313259323,1056,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,766,323,5,5,null,0,5013,812
+1790313264336,1056,Authorization Request,200,OK,Thread Group 1-5,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1056,0,812
+1790313261034,1012,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,778,323,5,5,null,0,5011,770
+1790313266045,1012,Authorization Request,200,OK,Thread Group 1-3,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,1012,0,770
+1790313262015,261,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,931,247,5,5,null,0,5016,0
+1790313267031,261,Retrival Request,200,OK,Thread Group 1-4,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/1758,261,0,0
+1790313263469,253,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,919,247,5,5,null,0,5004,0
+1790313268473,253,Retrival Request,200,OK,Thread Group 1-2,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/1768,253,0,0
+1790313262895,1015,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,766,323,5,5,null,0,5007,745
+1790313267902,1015,Authorization Request,200,OK,Thread Group 1-1,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1015,0,745
+1790313265392,259,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,952,523,5,5,null,0,5015,0
+1790313270407,259,Booking Request,200,OK,Thread Group 1-5,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,259,0,0
+1790313267058,263,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,952,523,5,5,null,0,5004,0
+1790313272062,263,Booking Request,200,OK,Thread Group 1-3,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,263,0,0
+1790313267292,1011,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,774,323,5,5,null,0,5017,767
+1790313272309,1011,Authorization Request,200,OK,Thread Group 1-4,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1011,0,767
+1790313268917,252,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,952,523,5,5,null,0,5013,0
+1790313273930,252,Booking Request,200,OK,Thread Group 1-1,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,252,0,0
+1790313268726,973,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5018,732
+1790313273744,973,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,973,0,732
+1790313270666,251,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,247,5,5,null,0,5015,0
+1790313275681,251,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/1837,251,0,0
+1790313272325,259,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,919,247,5,5,null,0,5006,0
+1790313277331,259,Retrival Request,200,OK,Thread Group 1-3,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/1851,259,0,0
+1790313273320,279,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,956,523,5,5,null,0,5007,0
+1790313278327,279,Booking Request,200,OK,Thread Group 1-4,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,279,0,0
+1790313274182,273,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,927,247,5,5,null,0,5003,0
+1790313279184,273,Retrival Request,200,OK,Thread Group 1-1,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/1868,273,0,0
+1790313274717,260,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,956,523,5,5,null,0,5011,0
+1790313279727,260,Booking Request,200,OK,Thread Group 1-2,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,260,0,0
+1790313275932,1072,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,778,323,5,5,null,0,5002,804
+1790313280934,1072,Authorization Request,200,OK,Thread Group 1-5,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,1072,0,804
+1790313277590,987,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,5,5,null,0,5006,742
+1790313282595,987,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,987,0,742
+1790313278606,260,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5001,0
+1790313283607,260,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/1913,260,0,0
+1790313279988,263,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,927,247,5,5,null,0,5020,0
+1790313285008,263,Retrival Request,200,OK,Thread Group 1-2,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/1929,263,0,0
+1790313279458,980,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,5,5,null,0,5007,739
+1790313284464,980,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,980,0,739
+1790313282006,270,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,956,523,5,5,null,0,5009,0
+1790313287015,270,Booking Request,200,OK,Thread Group 1-5,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,270,0,0
+1790313283583,297,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,948,523,5,5,null,0,5003,0
+1790313288586,297,Booking Request,200,OK,Thread Group 1-3,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,297,0,0
+1790313285445,297,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,956,523,5,5,null,0,5008,0
+1790313290453,297,Booking Request,200,OK,Thread Group 1-1,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,297,0,0
+1790313285271,1039,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,774,323,5,5,null,0,5010,777
+1790313290281,1039,Authorization Request,200,OK,Thread Group 1-2,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1039,0,777
+1790313283867,2876,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,774,323,5,5,null,0,5006,2629
+1790313288872,2876,Authorization Request,200,OK,Thread Group 1-4,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,2876,0,2629
+1790313287285,263,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,919,247,5,5,null,0,5002,0
+1790313292287,263,Retrival Request,200,OK,Thread Group 1-5,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/1986,263,0,0
+1790313288884,253,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,931,247,5,5,null,0,5002,0
+1790313293886,253,Retrival Request,200,OK,Thread Group 1-3,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/2004,253,0,0
+1790313290750,268,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,927,247,5,5,null,0,5013,0
+1790313295764,268,Retrival Request,200,OK,Thread Group 1-1,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2019,268,0,0
+1790313291320,259,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,952,523,5,5,null,0,5002,0
+1790313296323,259,Booking Request,200,OK,Thread Group 1-2,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,259,0,0
+1790313291749,266,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,948,523,5,5,null,0,5016,0
+1790313296766,266,Booking Request,200,OK,Thread Group 1-4,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,266,0,0
+1790313292550,1019,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5016,777
+1790313297567,1019,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1019,0,777
+1790313294139,1001,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,5,5,null,0,5023,752
+1790313299162,1001,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1001,0,752
+1790313296582,260,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,919,247,5,5,null,0,5000,0
+1790313301582,260,Retrival Request,200,OK,Thread Group 1-2,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/2076,260,0,0
+1790313296032,978,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,766,323,5,5,null,0,5003,735
+1790313301035,978,Authorization Request,200,OK,Thread Group 1-1,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,978,0,735
+1790313297032,262,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5016,0
+1790313302047,262,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2080,262,0,0
+1790313298586,259,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,952,523,5,5,null,0,5017,0
+1790313303602,259,Booking Request,200,OK,Thread Group 1-5,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,259,0,0
+1790313300164,265,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,960,523,5,5,null,0,5003,0
+1790313305166,265,Booking Request,200,OK,Thread Group 1-3,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,265,0,0
+1790313302014,255,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,952,523,5,5,null,0,5010,0
+1790313307022,255,Booking Request,200,OK,Thread Group 1-1,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,255,0,0
+1790313301842,1019,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5014,760
+1790313306855,1019,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1019,0,760
+1790313302310,987,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5001,742
+1790313307310,987,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,987,0,742
+1790313303862,250,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,247,5,5,null,0,5002,0
+1790313308863,250,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2138,250,0,0
+1790313305432,265,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,931,247,5,5,null,0,5010,0
+1790313310441,265,Retrival Request,200,OK,Thread Group 1-3,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/2155,265,0,0
+1790313307278,261,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,927,247,5,5,null,0,5005,0
+1790313312284,261,Retrival Request,200,OK,Thread Group 1-1,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2170,261,0,0
+1790313307874,277,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,956,523,5,5,null,0,5015,0
+1790313312889,277,Booking Request,200,OK,Thread Group 1-2,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,277,0,0
+1790313308297,265,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,956,523,5,5,null,0,5009,0
+1790313313307,265,Booking Request,200,OK,Thread Group 1-4,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,265,0,0
+1790313309113,971,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5009,724
+1790313314123,971,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,971,0,724
+1790313310707,1047,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5010,781
+1790313315716,1047,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1047,0,781
+1790313313167,271,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,927,247,5,5,null,0,5002,0
+1790313318168,271,Retrival Request,200,OK,Thread Group 1-2,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2218,271,0,0
+1790313312545,1017,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,5,5,null,0,5003,776
+1790313317547,1017,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1017,0,776
+1790313313572,260,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5001,0
+1790313318572,260,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2224,260,0,0
+1790313315094,257,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,952,523,5,5,null,0,5004,0
+1790313320096,257,Booking Request,200,OK,Thread Group 1-5,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,257,0,0
+1790313316763,283,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,952,523,5,5,null,0,5011,0
+1790313321775,283,Booking Request,200,OK,Thread Group 1-3,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,283,0,0
+1790313318564,245,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,952,523,5,5,null,0,5013,0
+1790313323578,245,Booking Request,200,OK,Thread Group 1-1,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,245,0,0
+1790313318440,996,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,766,323,5,5,null,0,5009,746
+1790313323449,996,Authorization Request,200,OK,Thread Group 1-2,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,996,0,746
+1790313318832,1025,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5003,771
+1790313323836,1025,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1025,0,771
+1790313320354,256,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5001,0
+1790313325356,256,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2294,256,0,0
+1790313322058,282,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5006,0
+1790313327064,282,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2306,282,0,0
+1790313323823,274,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,927,247,5,5,null,0,5002,0
+1790313328825,274,Retrival Request,200,OK,Thread Group 1-1,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2320,274,0,0
+1790313324446,262,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,956,523,5,5,null,0,5003,0
+1790313329449,262,Booking Request,200,OK,Thread Group 1-2,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,262,0,0
+1790313324861,275,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,952,523,5,5,null,0,5017,0
+1790313329877,275,Booking Request,200,OK,Thread Group 1-4,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,275,0,0
+1790313325612,1013,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5014,764
+1790313330626,1013,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1013,0,764
+1790313327347,970,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5004,728
+1790313332351,970,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,970,0,728
+1790313329711,261,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,919,247,5,5,null,0,5007,0
+1790313334718,261,Retrival Request,200,OK,Thread Group 1-2,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/2382,261,0,0
+1790313329099,1021,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5019,769
+1790313334118,1021,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1021,0,769
+1790313330153,281,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5005,0
+1790313335158,281,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2386,281,0,0
+1790313331639,264,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,960,523,5,5,null,0,5011,0
+1790313336650,264,Booking Request,200,OK,Thread Group 1-5,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,263,0,0
+1790313333322,261,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,952,523,5,5,null,0,5000,0
+1790313338322,261,Booking Request,200,OK,Thread Group 1-3,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,261,0,0
+1790313335140,266,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,952,523,5,5,null,0,5013,0
+1790313340152,266,Booking Request,200,OK,Thread Group 1-1,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,266,0,0
+1790313334979,1040,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5012,790
+1790313339991,1040,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1039,0,790
+1790313335439,971,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5015,731
+1790313340454,971,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,971,0,731
+1790313336914,270,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,919,247,5,5,null,0,5010,0
+1790313341923,270,Retrival Request,200,OK,Thread Group 1-5,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/2441,270,0,0
+1790313338583,262,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,919,247,5,5,null,0,5002,0
+1790313343585,262,Retrival Request,200,OK,Thread Group 1-3,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/2458,262,0,0
+1790313340419,264,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,931,247,5,5,null,0,5013,0
+1790313345432,264,Retrival Request,200,OK,Thread Group 1-1,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/2474,264,0,0
+1790313341031,274,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5010,0
+1790313346040,274,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,274,0,0
+1790313341425,261,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,948,523,5,5,null,0,5017,0
+1790313346441,261,Booking Request,200,OK,Thread Group 1-4,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,261,0,0
+1790313342194,962,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,766,323,5,5,null,0,5002,723
+1790313347196,962,Authorization Request,200,OK,Thread Group 1-5,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,962,0,723
+1790313343847,999,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,778,323,5,5,null,0,5009,757
+1790313348856,999,Authorization Request,200,OK,Thread Group 1-3,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,999,0,757
+1790313346315,259,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5013,0
+1790313351328,259,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2523,259,0,0
+1790313345696,980,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5015,741
+1790313350710,980,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,980,0,741
+1790313346703,264,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5002,0
+1790313351704,264,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2528,264,0,0
+1790313348158,241,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,948,523,5,5,null,0,5006,0
+1790313353163,241,Booking Request,200,OK,Thread Group 1-5,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,241,0,0
+1790313349855,279,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,948,523,5,5,null,0,5014,0
+1790313354868,279,Booking Request,200,OK,Thread Group 1-3,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,279,0,0
+1790313351691,253,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,952,523,5,5,null,0,5007,0
+1790313356699,253,Booking Request,200,OK,Thread Group 1-1,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,253,0,0
+1790313351587,1025,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,766,323,5,5,null,0,5008,771
+1790313356595,1025,Authorization Request,200,OK,Thread Group 1-2,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1025,0,771
+1790313351970,979,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5020,736
+1790313356990,979,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,979,0,736
+1790313353405,247,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5012,0
+1790313358418,247,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2583,247,0,0
+1790313355148,272,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,919,247,5,5,null,0,5009,0
+1790313360157,272,Retrival Request,200,OK,Thread Group 1-3,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/2603,272,0,0
+1790313356952,255,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5007,0
+1790313361959,255,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2620,255,0,0
+1790313357621,265,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,952,523,5,5,null,0,5004,0
+1790313362625,265,Booking Request,200,OK,Thread Group 1-2,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,265,0,0
+1790313357970,260,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,956,523,5,5,null,0,5007,0
+1790313362977,260,Booking Request,200,OK,Thread Group 1-4,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,260,0,0
+1790313358665,1059,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,770,323,5,5,null,0,5005,812
+1790313363670,1059,Authorization Request,200,OK,Thread Group 1-5,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1059,0,812
+1790313360430,1025,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,5,5,null,0,5005,766
+1790313365435,1025,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1025,0,766
+1790313362890,343,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,927,247,5,5,null,0,5014,0
+1790313362214,1026,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,5,5,null,0,5007,768
+1790313367904,343,Retrival Request,200,OK,Thread Group 1-2,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2671,343,0,0
+1790313367221,1026,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1026,0,768
+1790313363238,267,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5011,0
+1790313368248,267,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2674,267,0,0
+1790313364730,265,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,948,523,5,5,null,0,5011,0
+1790313369741,265,Booking Request,200,OK,Thread Group 1-5,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,265,0,0
+1790313366461,258,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,956,523,5,5,null,0,5009,0
+1790313371468,258,Booking Request,200,OK,Thread Group 1-3,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,258,0,0
+1790313368247,262,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,948,523,5,5,null,0,5004,0
+1790313373250,262,Booking Request,200,OK,Thread Group 1-1,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,262,0,0
+1790313368247,988,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,774,323,5,5,null,0,5005,744
+1790313373250,988,Authorization Request,200,OK,Thread Group 1-2,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,988,0,744
+1790313368516,1010,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,774,323,5,5,null,0,5016,764
+1790313373531,1010,Authorization Request,200,OK,Thread Group 1-4,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1010,0,764
+1790313370006,338,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,247,5,5,null,0,5006,0
+1790313375010,338,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2738,338,0,0
+1790313371727,280,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,927,247,5,5,null,0,5001,0
+1790313376728,280,Retrival Request,200,OK,Thread Group 1-3,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/2751,280,0,0
+1790313373512,241,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,931,247,5,5,null,0,5016,0
+1790313378528,241,Retrival Request,200,OK,Thread Group 1-1,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/2762,241,0,0
+1790313374239,264,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,960,523,5,5,null,0,5010,0
+1790313379249,264,Booking Request,200,OK,Thread Group 1-2,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,264,0,0
+1790313374542,258,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,960,523,5,5,null,0,5001,0
+1790313379543,258,Booking Request,200,OK,Thread Group 1-4,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,258,0,0
+1790313375349,974,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5012,734
+1790313380361,974,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,974,0,734
+1790313377008,1051,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,766,323,5,5,null,0,5008,790
+1790313382017,1051,Authorization Request,200,OK,Thread Group 1-3,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1051,0,790
+1790313379513,250,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5010,0
+1790313384524,250,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2826,250,0,0
+1790313378769,1030,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5018,784
+1790313383788,1030,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1030,0,784
+1790313379801,277,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,919,247,5,5,null,0,5009,0
+1790313384811,277,Retrival Request,200,OK,Thread Group 1-4,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/2829,277,0,0
+1790313381336,255,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,948,523,5,5,null,0,5001,0
+1790313386336,255,Booking Request,200,OK,Thread Group 1-5,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,255,0,0
+1790313383068,268,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,948,523,5,5,null,0,5009,0
+1790313388076,268,Booking Request,200,OK,Thread Group 1-3,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,267,0,0
+1790313384818,269,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,952,523,5,5,null,0,5011,0
+1790313389827,269,Booking Request,200,OK,Thread Group 1-1,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,269,0,0
+1790313384774,993,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5006,748
+1790313389779,993,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,993,0,748
+1790313385088,989,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5005,737
+1790313390092,989,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,989,0,737
+1790313386591,258,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,919,247,5,5,null,0,5012,0
+1790313391604,258,Retrival Request,200,OK,Thread Group 1-5,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/2892,258,0,0
+1790313388344,272,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5004,0
+1790313393349,272,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2908,272,0,0
+1790313390097,265,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5001,0
+1790313395099,265,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2928,265,0,0
+1790313390773,249,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,952,523,5,5,null,0,5015,0
+1790313395787,249,Booking Request,200,OK,Thread Group 1-2,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,249,0,0
+1790313391082,257,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,952,523,5,5,null,0,5003,0
+1790313396084,257,Booking Request,200,OK,Thread Group 1-4,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,257,0,0
+1790313391862,1047,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5016,799
+1790313396878,1047,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1047,0,799
+1790313393621,1014,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,5,5,null,0,5014,757
+1790313398635,1014,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1014,0,757
+1790313396037,268,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5008,0
+1790313401044,268,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2977,268,0,0
+1790313395364,979,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5013,741
+1790313400376,979,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,979,0,741
+1790313396342,258,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5009,0
+1790313401351,258,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/2981,258,0,0
+1790313397925,246,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,960,523,5,5,null,0,5014,0
+1790313402939,246,Booking Request,200,OK,Thread Group 1-5,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,246,0,0
+1790313399649,272,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,956,523,5,5,null,0,5005,0
+1790313404654,272,Booking Request,200,OK,Thread Group 1-3,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,272,0,0
+1790313401356,262,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,956,523,5,5,null,0,5011,0
+1790313406367,262,Booking Request,200,OK,Thread Group 1-1,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,262,0,0
+1790313401313,990,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5002,740
+1790313406315,990,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,990,0,740
+1790313401609,990,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5017,735
+1790313406627,990,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,990,0,735
+1790313403185,252,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5002,0
+1790313408188,252,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/3038,252,0,0
+1790313404926,277,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,927,247,5,5,null,0,5004,0
+1790313409930,277,Retrival Request,200,OK,Thread Group 1-3,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/3056,277,0,0
+1790313406630,255,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,919,247,5,5,null,0,5009,0
+1790313411637,255,Retrival Request,200,OK,Thread Group 1-1,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/3071,255,0,0
+1790313407306,256,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,956,523,5,5,null,0,5002,0
+1790313412306,256,Booking Request,200,OK,Thread Group 1-2,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,256,0,0
+1790313407617,262,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,956,523,5,5,null,0,5007,0
+1790313412622,262,Booking Request,200,OK,Thread Group 1-4,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,262,0,0
+1790313408441,1043,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5015,765
+1790313413454,1043,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1043,0,765
+1790313410208,989,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5002,755
+1790313415209,989,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,989,0,755
+1790313412563,258,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5007,0
+1790313417570,258,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3124,258,0,0
+1790313411893,988,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5017,736
+1790313416910,988,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,988,0,736
+1790313412885,275,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,919,247,5,5,null,0,5012,0
+1790313417896,275,Retrival Request,200,OK,Thread Group 1-4,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/3126,275,0,0
+1790313414498,275,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,948,523,5,5,null,0,5006,0
+1790313419504,275,Booking Request,200,OK,Thread Group 1-5,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,275,0,0
+1790313416199,239,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,960,523,5,5,null,0,5010,0
+1790313421210,239,Booking Request,200,OK,Thread Group 1-3,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,239,0,0
+1790313417898,266,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,956,523,5,5,null,0,5003,0
+1790313422902,266,Booking Request,200,OK,Thread Group 1-1,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,266,0,0
+1790313417829,1021,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,774,323,5,5,null,0,5011,768
+1790313422841,1021,Authorization Request,200,OK,Thread Group 1-2,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1021,0,768
+1790313418172,989,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5012,752
+1790313423185,989,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,989,0,752
+1790313419779,269,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5003,0
+1790313424783,269,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/3197,269,0,0
+1790313421449,250,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5015,0
+1790313426464,250,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3212,250,0,0
+1790313423168,242,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,919,247,5,5,null,0,5005,0
+1790313428173,242,Retrival Request,200,OK,Thread Group 1-1,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/3225,242,0,0
+1790313423863,271,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5005,0
+1790313428868,271,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,271,0,0
+1790313424174,265,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,948,523,5,5,null,0,5016,0
+1790313429190,265,Booking Request,200,OK,Thread Group 1-4,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,265,0,0
+1790313425052,963,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5008,723
+1790313430059,963,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,963,0,723
+1790313426714,975,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,5,5,null,0,5019,736
+1790313431732,975,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,975,0,736
+1790313429139,258,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,919,247,5,5,null,0,5006,0
+1790313434144,258,Retrival Request,200,OK,Thread Group 1-2,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/3279,258,0,0
+1790313428415,1009,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,766,323,5,5,null,0,5016,766
+1790313433430,1009,Authorization Request,200,OK,Thread Group 1-1,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1009,0,766
+1790313429455,252,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,919,247,5,5,null,0,5017,0
+1790313434471,252,Retrival Request,200,OK,Thread Group 1-4,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/3283,252,0,0
+1790313431022,258,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,956,523,5,5,null,0,5009,0
+1790313436032,258,Booking Request,200,OK,Thread Group 1-5,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,258,0,0
+1790313432707,270,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,956,523,5,5,null,0,5004,0
+1790313437711,270,Booking Request,200,OK,Thread Group 1-3,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,270,0,0
+1790313434439,272,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,956,523,5,5,null,0,5007,0
+1790313439447,272,Booking Request,200,OK,Thread Group 1-1,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,272,0,0
+1790313434402,1031,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,766,323,5,5,null,0,5005,779
+1790313439408,1031,Authorization Request,200,OK,Thread Group 1-2,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1031,0,779
+1790313434723,1006,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5015,758
+1790313439739,1006,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1006,0,758
+1790313436290,243,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5005,0
+1790313441295,243,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/3343,243,0,0
+1790313437982,245,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5008,0
+1790313442990,245,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3359,245,0,0
+1790313439719,278,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5007,0
+1790313444726,278,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3382,278,0,0
+1790313440439,268,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5009,0
+1790313445448,268,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,268,0,0
+1790313440745,264,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,948,523,5,5,null,0,5010,0
+1790313445755,264,Booking Request,200,OK,Thread Group 1-4,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,264,0,0
+1790313441538,998,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,770,323,5,5,null,0,5017,736
+1790313446555,998,Authorization Request,200,OK,Thread Group 1-5,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,998,0,736
+1790313443235,1002,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5009,757
+1790313448244,1002,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1002,0,757
+1790313445716,269,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5014,0
+1790313450730,269,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3433,269,0,0
+1790313445005,990,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5016,755
+1790313450021,990,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,990,0,755
+1790313446019,269,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5015,0
+1790313451034,269,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/3436,269,0,0
+1790313447553,277,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,952,523,5,5,null,0,5012,0
+1790313452565,277,Booking Request,200,OK,Thread Group 1-5,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,277,0,0
+1790313449246,267,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,952,523,5,5,null,0,5002,0
+1790313454248,267,Booking Request,200,OK,Thread Group 1-3,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,267,0,0
+1790313451011,252,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,948,523,5,5,null,0,5011,0
+1790313456021,252,Booking Request,200,OK,Thread Group 1-1,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,252,0,0
+1790313451000,1017,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,766,323,5,5,null,0,5007,759
+1790313456006,1017,Authorization Request,200,OK,Thread Group 1-2,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1017,0,759
+1790313451303,1024,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5013,767
+1790313456316,1024,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1024,0,767
+1790313452842,264,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,919,247,5,5,null,0,5008,0
+1790313457850,264,Retrival Request,200,OK,Thread Group 1-5,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/3493,264,0,0
+1790313454515,276,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,927,247,5,5,null,0,5006,0
+1790313459520,276,Retrival Request,200,OK,Thread Group 1-3,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/3513,276,0,0
+1790313456274,260,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,927,247,5,5,null,0,5001,0
+1790313461275,260,Retrival Request,200,OK,Thread Group 1-1,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/3531,260,0,0
+1790313457024,271,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,952,523,5,5,null,0,5010,0
+1790313462034,271,Booking Request,200,OK,Thread Group 1-2,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,271,0,0
+1790313457340,255,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,952,523,5,5,null,0,5012,0
+1790313462352,255,Booking Request,200,OK,Thread Group 1-4,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,255,0,0
+1790313458114,1062,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5002,818
+1790313463116,1062,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1062,0,818
+1790313459797,1000,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,766,323,5,5,null,0,5015,747
+1790313464812,1000,Authorization Request,200,OK,Thread Group 1-3,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1000,0,747
+1790313461535,1007,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5005,763
+1790313466540,1007,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1007,0,763
+1790313462305,274,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5001,0
+1790313467306,274,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3585,274,0,0
+1790313462607,270,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5014,0
+1790313467621,270,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3591,270,0,0
+1790313464178,270,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,952,523,5,5,null,0,5009,0
+1790313469186,270,Booking Request,200,OK,Thread Group 1-5,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,270,0,0
+1790313465812,260,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,956,523,5,5,null,0,5010,0
+1790313470822,260,Booking Request,200,OK,Thread Group 1-3,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,260,0,0
+1790313467547,247,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,952,523,5,5,null,0,5003,0
+1790313472550,247,Booking Request,200,OK,Thread Group 1-1,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,247,0,0
+1790313467581,1080,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5006,822
+1790313472586,1080,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1080,0,822
+1790313467891,997,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5016,757
+1790313472906,997,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,997,0,757
+1790313469457,278,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5009,0
+1790313474466,278,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/3659,278,0,0
+1790313471082,256,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,927,247,5,5,null,0,5016,0
+1790313476098,256,Retrival Request,200,OK,Thread Group 1-3,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/3670,256,0,0
+1790313472797,267,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,919,247,5,5,null,0,5011,0
+1790313477807,267,Retrival Request,200,OK,Thread Group 1-1,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/3685,267,0,0
+1790313473667,284,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5003,0
+1790313478670,284,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,284,0,0
+1790313473904,262,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,968,523,5,5,null,0,5004,0
+1790313478908,262,Booking Request,200,OK,Thread Group 1-4,text,true,,968,523,5,5,https://restful-booker.herokuapp.com/booking,262,0,0
+1790313474744,973,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,770,323,5,5,null,0,5016,731
+1790313479760,973,Authorization Request,200,OK,Thread Group 1-5,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,973,0,731
+1790313476355,1034,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5002,783
+1790313481357,1034,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1034,0,783
+1790313478075,1009,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5006,767
+1790313483081,1009,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1009,0,767
+1790313478954,286,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5004,0
+1790313483958,286,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3743,285,0,0
+1790313479170,262,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5009,0
+1790313484179,262,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3747,262,0,0
+1790313480733,259,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,956,523,5,5,null,0,5002,0
+1790313485735,259,Booking Request,200,OK,Thread Group 1-5,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,259,0,0
+1790313482391,281,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,952,523,5,5,null,0,5013,0
+1790313487404,281,Booking Request,200,OK,Thread Group 1-3,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,281,0,0
+1790313484091,260,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,948,523,5,5,null,0,5008,0
+1790313489100,260,Booking Request,200,OK,Thread Group 1-1,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,260,0,0
+1790313484245,978,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,778,323,5,5,null,0,5013,746
+1790313489259,978,Authorization Request,200,OK,Thread Group 1-2,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,978,0,746
+1790313484442,1004,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,778,323,5,5,null,0,5008,754
+1790313489451,1004,Authorization Request,200,OK,Thread Group 1-4,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,1004,0,754
+1790313485995,257,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,247,5,5,null,0,5015,0
+1790313491010,257,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3805,257,0,0
+1790313487686,258,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5004,0
+1790313492690,258,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3818,257,0,0
+1790313489360,250,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5012,0
+1790313494372,250,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3838,250,0,0
+1790313490237,251,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,952,523,5,5,null,0,5013,0
+1790313495250,251,Booking Request,200,OK,Thread Group 1-2,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,251,0,0
+1790313490455,273,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,952,523,5,5,null,0,5016,0
+1790313495471,273,Booking Request,200,OK,Thread Group 1-4,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,273,0,0
+1790313491267,1070,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5008,821
+1790313496276,1070,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1070,0,821
+1790313494622,999,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,786,323,5,5,null,0,5011,765
+1790313499634,999,Authorization Request,200,OK,Thread Group 1-1,text,true,,786,323,5,5,https://restful-booker.herokuapp.com/auth,999,0,765
+1790313495501,248,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,939,247,5,5,null,0,5015,0
+1790313500517,248,Retrival Request,200,OK,Thread Group 1-2,text,true,,939,247,5,5,https://restful-booker.herokuapp.com/booking/3889,248,0,0
+1790313492948,2926,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,786,323,5,5,null,0,5014,2685
+1790313497962,2926,Authorization Request,200,OK,Thread Group 1-3,text,true,,786,323,5,5,https://restful-booker.herokuapp.com/auth,2926,0,2685
+1790313495744,265,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,939,247,5,5,null,0,5014,0
+1790313500759,265,Retrival Request,200,OK,Thread Group 1-4,text,true,,939,247,5,5,https://restful-booker.herokuapp.com/booking/3891,265,0,0
+1790313497347,259,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,956,523,5,5,null,0,5002,0
+1790313502348,259,Booking Request,200,OK,Thread Group 1-5,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,259,0,0
+1790313500633,273,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,952,523,5,5,null,0,5005,0
+1790313505636,273,Booking Request,200,OK,Thread Group 1-1,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,273,0,0
+1790313500888,268,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,964,523,5,5,null,0,5007,0
+1790313505894,268,Booking Request,200,OK,Thread Group 1-3,text,true,,964,523,5,5,https://restful-booker.herokuapp.com/booking,268,0,0
+1790313500765,987,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,782,323,5,5,null,0,5009,730
+1790313505773,987,Authorization Request,200,OK,Thread Group 1-2,text,true,,782,323,5,5,https://restful-booker.herokuapp.com/auth,987,0,730
+1790313501023,1031,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5006,771
+1790313506029,1031,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1031,0,771
+1790313502607,266,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,247,5,5,null,0,5003,0
+1790313507610,266,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3947,266,0,0
+1790313505911,262,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5007,0
+1790313510919,262,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3981,262,0,0
+1790313506163,257,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5008,0
+1790313511172,257,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/3985,257,0,0
+1790313506760,270,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5009,0
+1790313511770,270,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,270,0,0
+1790313507060,252,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,948,523,5,5,null,0,5009,0
+1790313512069,252,Booking Request,200,OK,Thread Group 1-4,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,252,0,0
+1790313507876,1061,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,778,323,5,5,null,0,5019,795
+1790313512896,1061,Authorization Request,200,OK,Thread Group 1-5,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,1061,0,795
+1790313511181,967,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5007,729
+1790313516186,967,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,967,0,729
+1790313512040,263,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5006,0
+1790313517045,263,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4035,263,0,0
+1790313511429,1028,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5006,768
+1790313516433,1028,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1028,0,768
+1790313512322,277,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5005,0
+1790313517326,277,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4038,277,0,0
+1790313513957,276,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,952,523,5,5,null,0,5010,0
+1790313518966,276,Booking Request,200,OK,Thread Group 1-5,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,276,0,0
+1790313517154,258,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,948,523,5,5,null,0,5009,0
+1790313522163,258,Booking Request,200,OK,Thread Group 1-1,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,258,0,0
+1790313517462,267,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,948,523,5,5,null,0,5004,0
+1790313522466,267,Booking Request,200,OK,Thread Group 1-3,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,267,0,0
+1790313517308,977,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5003,732
+1790313522311,977,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,977,0,732
+1790313517603,965,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5007,724
+1790313522610,965,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,965,0,724
+1790313519242,270,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,919,247,5,5,null,0,5002,0
+1790313524244,270,Retrival Request,200,OK,Thread Group 1-5,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/4102,270,0,0
+1790313522421,265,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5013,0
+1790313527434,265,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4132,265,0,0
+1790313522734,269,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5008,0
+1790313527743,269,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4134,269,0,0
+1790313523288,258,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,956,523,5,5,null,0,5001,0
+1790313528290,258,Booking Request,200,OK,Thread Group 1-2,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,258,0,0
+1790313523575,259,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,956,523,5,5,null,0,5012,0
+1790313528588,259,Booking Request,200,OK,Thread Group 1-4,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,259,0,0
+1790313524514,1009,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,778,323,5,5,null,0,5011,755
+1790313529526,1009,Authorization Request,200,OK,Thread Group 1-5,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,1009,0,755
+1790313527700,1037,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,766,323,5,5,null,0,5005,779
+1790313532704,1037,Authorization Request,200,OK,Thread Group 1-1,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1036,0,779
+1790313528548,259,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,919,247,5,5,null,0,5012,0
+1790313533558,259,Retrival Request,200,OK,Thread Group 1-2,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/4182,259,0,0
+1790313528012,964,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,766,323,5,5,null,0,5007,724
+1790313533017,964,Authorization Request,200,OK,Thread Group 1-3,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,964,0,724
+1790313528847,256,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5012,0
+1790313533858,256,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4188,256,0,0
+1790313530535,258,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,956,523,5,5,null,0,5012,0
+1790313535546,258,Booking Request,200,OK,Thread Group 1-5,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,258,0,0
+1790313533741,271,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,948,523,5,5,null,0,5005,0
+1790313538747,271,Booking Request,200,OK,Thread Group 1-1,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,271,0,0
+1790313533982,244,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,968,523,5,5,null,0,5009,0
+1790313538992,244,Booking Request,200,OK,Thread Group 1-3,text,true,,968,523,5,5,https://restful-booker.herokuapp.com/booking,244,0,0
+1790313533818,968,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,786,323,5,5,null,0,5003,729
+1790313538822,968,Authorization Request,200,OK,Thread Group 1-2,text,true,,786,323,5,5,https://restful-booker.herokuapp.com/auth,968,0,729
+1790313534114,985,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5014,737
+1790313539129,985,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,985,0,737
+1790313535805,265,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,919,247,5,5,null,0,5004,0
+1790313540810,265,Retrival Request,200,OK,Thread Group 1-5,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/4249,265,0,0
+1790313539018,272,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5009,0
+1790313544027,272,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4282,272,0,0
+1790313539236,247,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5016,0
+1790313544252,247,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4285,247,0,0
+1790313539790,243,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5006,0
+1790313544796,243,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,243,0,0
+1790313540114,261,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,948,523,5,5,null,0,5009,0
+1790313545122,261,Booking Request,200,OK,Thread Group 1-4,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,261,0,0
+1790313541075,983,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,766,323,5,5,null,0,5007,732
+1790313546082,983,Authorization Request,200,OK,Thread Group 1-5,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,983,0,732
+1790313545039,260,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,939,247,5,5,null,0,5009,0
+1790313550048,260,Retrival Request,200,OK,Thread Group 1-2,text,true,,939,247,5,5,https://restful-booker.herokuapp.com/booking/4345,260,0,0
+1790313544299,1060,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,786,323,5,5,null,0,5007,795
+1790313549306,1060,Authorization Request,200,OK,Thread Group 1-1,text,true,,786,323,5,5,https://restful-booker.herokuapp.com/auth,1060,0,795
+1790313544499,1005,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,786,323,5,5,null,0,5011,758
+1790313549510,1005,Authorization Request,200,OK,Thread Group 1-3,text,true,,786,323,5,5,https://restful-booker.herokuapp.com/auth,1005,0,758
+1790313545384,254,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,939,247,5,5,null,0,5004,0
+1790313550387,254,Retrival Request,200,OK,Thread Group 1-4,text,true,,939,247,5,5,https://restful-booker.herokuapp.com/booking/4347,254,0,0
+1790313547065,261,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,956,523,5,5,null,0,5009,0
+1790313552074,261,Booking Request,200,OK,Thread Group 1-5,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,261,0,0
+1790313550366,269,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,948,523,5,5,null,0,5011,0
+1790313555376,269,Booking Request,200,OK,Thread Group 1-1,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,269,0,0
+1790313550515,250,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,948,523,5,5,null,0,5007,0
+1790313555521,250,Booking Request,200,OK,Thread Group 1-3,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,250,0,0
+1790313550308,976,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,766,323,5,5,null,0,5002,730
+1790313555310,976,Authorization Request,200,OK,Thread Group 1-2,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,976,0,730
+1790313550642,1040,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5005,775
+1790313555647,1040,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1040,0,775
+1790313552335,265,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5007,0
+1790313557342,265,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4405,265,0,0
+1790313555646,270,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5006,0
+1790313560651,270,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4436,270,0,0
+1790313555772,257,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,931,247,5,5,null,0,5008,0
+1790313560779,257,Retrival Request,200,OK,Thread Group 1-3,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/4438,257,0,0
+1790313556287,258,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,960,523,5,5,null,0,5010,0
+1790313561296,258,Booking Request,200,OK,Thread Group 1-2,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,258,0,0
+1790313556687,283,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,960,523,5,5,null,0,5005,0
+1790313561692,283,Booking Request,200,OK,Thread Group 1-4,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,283,0,0
+1790313557607,1070,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,778,323,5,5,null,0,5007,820
+1790313562614,1070,Authorization Request,200,OK,Thread Group 1-5,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,1070,0,820
+1790313561555,257,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,931,247,5,5,null,0,5001,0
+1790313566556,257,Retrival Request,200,OK,Thread Group 1-2,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/4497,257,0,0
+1790313560922,1021,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,778,323,5,5,null,0,5005,767
+1790313565926,1021,Authorization Request,200,OK,Thread Group 1-1,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,1021,0,767
+1790313561037,987,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,778,323,5,5,null,0,5005,740
+1790313566042,987,Authorization Request,200,OK,Thread Group 1-3,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,987,0,740
+1790313561975,267,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5015,0
+1790313566990,267,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4500,267,0,0
+1790313563684,266,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,960,523,5,5,null,0,5007,0
+1790313568690,266,Booking Request,200,OK,Thread Group 1-5,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,266,0,0
+1790313566948,267,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,960,523,5,5,null,0,5009,0
+1790313571958,267,Booking Request,200,OK,Thread Group 1-1,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,267,0,0
+1790313567029,262,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,960,523,5,5,null,0,5012,0
+1790313572042,262,Booking Request,200,OK,Thread Group 1-3,text,true,,960,523,5,5,https://restful-booker.herokuapp.com/booking,262,0,0
+1790313566814,1011,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,778,323,5,5,null,0,5009,760
+1790313571823,1011,Authorization Request,200,OK,Thread Group 1-2,text,true,,778,323,5,5,https://restful-booker.herokuapp.com/auth,1011,0,760
+1790313567257,1027,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,782,323,5,5,null,0,5005,772
+1790313572263,1027,Authorization Request,200,OK,Thread Group 1-4,text,true,,782,323,5,5,https://restful-booker.herokuapp.com/auth,1027,0,772
+1790313568957,265,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5011,0
+1790313573969,265,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4569,265,0,0
+1790313572226,273,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,927,247,5,5,null,0,5011,0
+1790313577237,273,Retrival Request,200,OK,Thread Group 1-1,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4596,273,0,0
+1790313572304,271,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,927,247,5,5,null,0,5011,0
+1790313577314,271,Retrival Request,200,OK,Thread Group 1-3,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4598,271,0,0
+1790313572835,261,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,956,523,5,5,null,0,5001,0
+1790313577836,261,Booking Request,200,OK,Thread Group 1-2,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,261,0,0
+1790313573290,270,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,956,523,5,5,null,0,5008,0
+1790313578297,270,Booking Request,200,OK,Thread Group 1-4,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,270,0,0
+1790313574234,990,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5014,742
+1790313579248,990,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,990,0,742
+1790313578097,263,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,923,247,5,5,null,0,5004,0
+1790313583100,263,Retrival Request,200,OK,Thread Group 1-2,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4654,263,0,0
+1790313577510,1282,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,770,323,5,5,null,0,5004,967
+1790313582513,1282,Authorization Request,200,OK,Thread Group 1-1,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1282,0,967
+1790313577586,1301,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,770,323,5,5,null,0,5013,983
+1790313582598,1301,Authorization Request,200,OK,Thread Group 1-3,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1301,0,983
+1790313578568,316,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,923,247,5,5,null,0,5016,0
+1790313583583,316,Retrival Request,200,OK,Thread Group 1-4,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/4661,316,0,0
+1790313580238,266,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,952,523,5,5,null,0,5012,0
+1790313585250,266,Booking Request,200,OK,Thread Group 1-5,text,true,,952,523,5,5,https://restful-booker.herokuapp.com/booking,266,0,0
+1790313583796,245,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,956,523,5,5,null,0,5008,0
+1790313588804,245,Booking Request,200,OK,Thread Group 1-1,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,245,0,0
+1790313583900,260,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,956,523,5,5,null,0,5004,0
+1790313588903,260,Booking Request,200,OK,Thread Group 1-3,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,260,0,0
+1790313583364,997,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,774,323,5,5,null,0,5014,751
+1790313588378,997,Authorization Request,200,OK,Thread Group 1-2,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,997,0,751
+1790313583900,1018,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,774,323,5,5,null,0,5004,759
+1790313588903,1018,Authorization Request,200,OK,Thread Group 1-4,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1018,0,759
+1790313585516,266,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5006,0
+1790313590522,266,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4725,266,0,0
+1790313589050,270,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,927,247,5,5,null,0,5001,0
+1790313594051,270,Retrival Request,200,OK,Thread Group 1-1,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4759,270,0,0
+1790313589164,266,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,927,247,5,5,null,0,5014,0
+1790313594178,266,Retrival Request,200,OK,Thread Group 1-3,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4761,266,0,0
+1790313589375,369,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,956,523,5,5,null,0,5009,0
+1790313594384,369,Booking Request,200,OK,Thread Group 1-2,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,369,0,0
+1790313589922,328,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,968,523,5,5,null,0,5015,0
+1790313594936,328,Booking Request,200,OK,Thread Group 1-4,text,true,,968,523,5,5,https://restful-booker.herokuapp.com/booking,328,0,0
+1790313590788,1179,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,782,323,5,5,null,0,5007,904
+1790313595795,1179,Authorization Request,200,OK,Thread Group 1-5,text,true,,782,323,5,5,https://restful-booker.herokuapp.com/auth,1179,0,904
+1790313594753,275,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,935,247,5,5,null,0,5009,0
+1790313599762,275,Retrival Request,200,OK,Thread Group 1-2,text,true,,935,247,5,5,https://restful-booker.herokuapp.com/booking/4807,275,0,0
+1790313594444,1068,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,5,5,null,0,5016,828
+1790313599460,1068,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1068,0,828
+1790313595265,261,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5005,0
+1790313600270,261,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4814,261,0,0
+1790313594321,1199,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,5,5,null,0,5013,955
+1790313599333,1199,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1199,0,955
+1790313596974,345,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,948,523,5,5,null,0,5011,0
+1790313601985,345,Booking Request,200,OK,Thread Group 1-5,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,345,0,0
+1790313600528,279,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,956,523,5,5,null,0,5005,0
+1790313605533,279,Booking Request,200,OK,Thread Group 1-3,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,279,0,0
+1790313600533,279,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,956,523,5,5,null,0,5000,0
+1790313605533,279,Booking Request,200,OK,Thread Group 1-1,text,true,,956,523,5,5,https://restful-booker.herokuapp.com/booking,279,0,0
+1790313600037,1078,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,770,323,5,5,null,0,5003,772
+1790313605040,1078,Authorization Request,200,OK,Thread Group 1-2,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1078,0,772
+1790313600531,1150,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,770,323,5,5,null,0,5003,894
+1790313605534,1150,Authorization Request,200,OK,Thread Group 1-4,text,true,,770,323,5,5,https://restful-booker.herokuapp.com/auth,1150,0,894
+1790313602330,271,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,927,247,5,5,null,0,5016,0
+1790313607345,271,Retrival Request,200,OK,Thread Group 1-5,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4880,271,0,0
+1790313605812,323,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,919,247,5,5,null,0,5003,0
+1790313610815,323,Retrival Request,200,OK,Thread Group 1-1,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/4911,323,0,0
+1790313605812,323,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,919,247,5,5,null,0,5003,0
+1790313610815,323,Retrival Request,200,OK,Thread Group 1-3,text,true,,919,247,5,5,https://restful-booker.herokuapp.com/booking/4910,323,0,0
+1790313606119,310,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5015,0
+1790313611133,310,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,310,0,0
+1790313606684,367,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,948,523,5,5,null,0,5007,0
+1790313611691,367,Booking Request,200,OK,Thread Group 1-4,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,367,0,0
+1790313607617,1273,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,5,5,null,0,5012,965
+1790313612629,1273,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1273,0,965
+1790313611444,321,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,931,247,5,5,null,0,5005,0
+1790313616450,321,Retrival Request,200,OK,Thread Group 1-2,text,true,,931,247,5,5,https://restful-booker.herokuapp.com/booking/4957,321,0,0
+1790313612058,317,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,927,247,5,5,null,0,5009,0
+1790313611139,1236,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,5,5,null,0,5009,930
+1790313617068,317,Retrival Request,200,OK,Thread Group 1-4,text,true,,927,247,5,5,https://restful-booker.herokuapp.com/booking/4963,317,0,0
+1790313616149,1236,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1236,0,930
+1790313611139,1235,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,5,5,null,0,5010,929
+1790313616150,1235,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,1235,0,929
+1790313613902,324,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,948,523,5,5,null,0,5004,0
+1790313618906,324,Booking Request,200,OK,Thread Group 1-5,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,324,0,0
+1790313617385,251,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,972,523,5,5,null,0,5006,0
+1790313622389,251,Booking Request,200,OK,Thread Group 1-1,text,true,,972,523,5,5,https://restful-booker.herokuapp.com/booking,251,0,0
+1790313617385,265,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,972,523,5,5,null,0,5005,0
+1790313622389,265,Booking Request,200,OK,Thread Group 1-3,text,true,,972,523,5,5,https://restful-booker.herokuapp.com/booking,265,0,0
+1790313616771,1125,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,790,323,5,5,null,0,5017,817
+1790313621787,1125,Authorization Request,200,OK,Thread Group 1-2,text,true,,790,323,5,5,https://restful-booker.herokuapp.com/auth,1125,0,817
+1790313617385,1137,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,766,323,5,5,null,0,5005,831
+1790313622389,1137,Authorization Request,200,OK,Thread Group 1-4,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1137,0,831
+1790313619231,266,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,935,247,5,5,null,0,5007,0
+1790313624236,266,Retrival Request,200,OK,Thread Group 1-5,text,true,,935,247,5,5,https://restful-booker.herokuapp.com/booking/5039,266,0,0
+1790313622641,255,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,247,5,5,null,0,5006,0
+1790313627646,255,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/5068,255,0,0
+1790313622654,265,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,247,5,5,null,0,5009,0
+1790313627662,265,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,247,5,5,https://restful-booker.herokuapp.com/booking/5069,265,0,0
+1790313622912,323,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,948,523,5,5,null,0,5003,0
+1790313627915,323,Booking Request,200,OK,Thread Group 1-2,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,323,0,0
+1790313623526,335,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,948,523,5,5,null,0,5006,0
+1790313628532,335,Booking Request,200,OK,Thread Group 1-4,text,true,,948,523,5,5,https://restful-booker.herokuapp.com/booking,335,0,0
+1790313624503,1075,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,766,323,5,5,null,0,5009,816
+1790313629512,1075,Authorization Request,200,OK,Thread Group 1-5,text,true,,766,323,5,5,https://restful-booker.herokuapp.com/auth,1075,0,816
+1790313630587,1274,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,954,523,5,5,null,0,5013,0
+1790313635601,1274,Booking Request,200,OK,Thread Group 1-5,text,true,,954,523,5,5,https://restful-booker.herokuapp.com/booking,1274,0,0
+1790313627928,4209,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,5,5,null,0,5012,930
+1790313627902,4240,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,5,5,null,0,5007,961
+1790313632909,4240,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,4240,0,961
+1790313632940,4209,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,5,5,https://restful-booker.herokuapp.com/auth,4209,0,930
+1790313628867,8281,BP03_BookingRetrievalRequst,404,,Thread Group 1-4,,false,,755,247,5,5,null,0,0,0
+1790313633877,3272,Retrival Request,404,Not Found,Thread Group 1-4,text,false,"Test failed: text expected to contain /,""lastname"":/",755,247,5,5,https://restful-booker.herokuapp.com/booking/5129,3272,0,0
+1790313628238,9253,BP03_BookingRetrievalRequst,404,,Thread Group 1-2,,false,,751,247,4,4,null,0,0,0
+1790313633240,4252,Retrival Request,404,Not Found,Thread Group 1-2,text,false,"Test failed: text expected to contain /,""lastname"":/",751,247,4,4,https://restful-booker.herokuapp.com/booking/5121,4252,0,0
+1790313636875,270,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,931,245,3,3,null,0,5012,0
+1790313641886,270,Retrival Request,200,OK,Thread Group 1-5,text,true,,931,245,3,3,https://restful-booker.herokuapp.com/booking/15,270,0,0
+1790313637150,255,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,958,523,3,3,null,0,5007,0
+1790313642155,255,Booking Request,200,OK,Thread Group 1-1,text,true,,958,523,3,3,https://restful-booker.herokuapp.com/booking,255,0,0
+1790313637150,258,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,958,523,3,3,null,0,5006,0
+1790313642155,258,Booking Request,200,OK,Thread Group 1-3,text,true,,958,523,3,3,https://restful-booker.herokuapp.com/booking,258,0,0
+1790313642411,256,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,919,245,3,3,null,0,5010,0
+1790313647421,256,Retrival Request,200,OK,Thread Group 1-1,text,true,,919,245,3,3,https://restful-booker.herokuapp.com/booking/55,256,0,0
+1790313642413,266,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,919,245,3,3,null,0,5008,0
+1790313647421,266,Retrival Request,200,OK,Thread Group 1-3,text,true,,919,245,3,3,https://restful-booker.herokuapp.com/booking/54,266,0,0
+1790313642157,1030,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,774,323,3,3,null,0,5011,771
+1790313647168,1030,Authorization Request,200,OK,Thread Group 1-5,text,true,,774,323,3,3,https://restful-booker.herokuapp.com/auth,1030,0,771
+1790313648198,257,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,955,523,3,3,null,0,5005,0
+1790313653204,257,Booking Request,200,OK,Thread Group 1-5,text,true,,955,523,3,3,https://restful-booker.herokuapp.com/booking,257,0,0
+1790313647677,1053,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,3,3,null,0,5005,746
+1790313647687,1038,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,3,3,null,0,5010,747
+1790313652697,1038,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,3,3,https://restful-booker.herokuapp.com/auth,1038,0,747
+1790313652682,1053,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,3,3,https://restful-booker.herokuapp.com/auth,1053,0,746
+1790313653461,281,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,931,246,3,3,null,0,5016,0
+1790313658476,281,Retrival Request,200,OK,Thread Group 1-5,text,true,,931,246,3,3,https://restful-booker.herokuapp.com/booking/127,281,0,0
+1790313653736,305,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,959,523,3,3,null,0,5010,0
+1790313653736,305,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,959,523,3,3,null,0,5010,0
+1790313658746,305,Booking Request,200,OK,Thread Group 1-1,text,true,,959,523,3,3,https://restful-booker.herokuapp.com/booking,305,0,0
+1790313658746,305,Booking Request,200,OK,Thread Group 1-3,text,true,,959,523,3,3,https://restful-booker.herokuapp.com/booking,305,0,0
+1790313659051,336,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,931,246,3,3,null,0,5008,0
+1790313664059,336,Retrival Request,200,OK,Thread Group 1-1,text,true,,931,246,3,3,https://restful-booker.herokuapp.com/booking/181,336,0,0
+1790313659051,336,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,931,246,3,3,null,0,5008,0
+1790313664059,336,Retrival Request,200,OK,Thread Group 1-3,text,true,,931,246,3,3,https://restful-booker.herokuapp.com/booking/182,336,0,0
+1790313658758,1180,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,778,323,3,3,null,0,5016,921
+1790313663774,1180,Authorization Request,200,OK,Thread Group 1-5,text,true,,778,323,3,3,https://restful-booker.herokuapp.com/auth,1180,0,921
+1790313664954,261,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,955,523,3,3,null,0,5011,0
+1790313669965,261,Booking Request,200,OK,Thread Group 1-5,text,true,,955,523,3,3,https://restful-booker.herokuapp.com/booking,261,0,0
+1790313664395,1064,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,3,3,null,0,5015,812
+1790313669410,1064,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,3,3,https://restful-booker.herokuapp.com/auth,1064,0,812
+1790313664395,1070,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,3,3,null,0,5015,812
+1790313669410,1070,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,3,3,https://restful-booker.herokuapp.com/auth,1070,0,812
+1790313670226,274,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,246,3,3,null,0,5009,0
+1790313675235,274,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,246,3,3,https://restful-booker.herokuapp.com/booking/289,274,0,0
+1790313670480,365,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,951,523,3,3,null,0,5010,0
+1790313670474,365,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,951,523,3,3,null,0,5016,0
+1790313675490,365,Booking Request,200,OK,Thread Group 1-1,text,true,,951,523,3,3,https://restful-booker.herokuapp.com/booking,365,0,0
+1790313675490,365,Booking Request,200,OK,Thread Group 1-3,text,true,,951,523,3,3,https://restful-booker.herokuapp.com/booking,365,0,0
+1790313675855,324,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,923,246,3,3,null,0,5001,0
+1790313680856,324,Retrival Request,200,OK,Thread Group 1-1,text,true,,923,246,3,3,https://restful-booker.herokuapp.com/booking/335,324,0,0
+1790313675855,324,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,923,246,3,3,null,0,5001,0
+1790313680856,324,Retrival Request,200,OK,Thread Group 1-3,text,true,,923,246,3,3,https://restful-booker.herokuapp.com/booking/337,324,0,0
+1790313675510,1270,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,770,323,3,3,null,0,5013,968
+1790313680523,1270,Authorization Request,200,OK,Thread Group 1-5,text,true,,770,323,3,3,https://restful-booker.herokuapp.com/auth,1270,0,968
+1790313681795,278,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,955,523,3,3,null,0,5006,0
+1790313686800,278,Booking Request,200,OK,Thread Group 1-5,text,true,,955,523,3,3,https://restful-booker.herokuapp.com/booking,278,0,0
+1790313681181,1128,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,774,323,3,3,null,0,5016,820
+1790313681181,1128,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,774,323,3,3,null,0,5016,820
+1790313686197,1128,Authorization Request,200,OK,Thread Group 1-1,text,true,,774,323,3,3,https://restful-booker.herokuapp.com/auth,1128,0,820
+1790313686197,1128,Authorization Request,200,OK,Thread Group 1-3,text,true,,774,323,3,3,https://restful-booker.herokuapp.com/auth,1128,0,820
+1790313687079,275,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,246,3,3,null,0,5007,0
+1790313692085,275,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,246,3,3,https://restful-booker.herokuapp.com/booking/436,275,0,0
+1790313687325,309,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,951,523,3,3,null,0,5015,0
+1790313687325,309,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,951,523,3,3,null,0,5015,0
+1790313692339,309,Booking Request,200,OK,Thread Group 1-1,text,true,,951,523,3,3,https://restful-booker.herokuapp.com/booking,309,0,0
+1790313692339,309,Booking Request,200,OK,Thread Group 1-3,text,true,,951,523,3,3,https://restful-booker.herokuapp.com/booking,309,0,0
+1790313692649,338,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,919,246,3,3,null,0,5003,0
+1790313692649,338,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,919,246,3,3,null,0,5003,0
+1790313697652,338,Retrival Request,200,OK,Thread Group 1-1,text,true,,919,246,3,3,https://restful-booker.herokuapp.com/booking/483,338,0,0
+1790313697652,338,Retrival Request,200,OK,Thread Group 1-3,text,true,,919,246,3,3,https://restful-booker.herokuapp.com/booking/484,338,0,0
+1790313692360,1220,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,770,323,3,3,null,0,5007,912
+1790313697367,1220,Authorization Request,200,OK,Thread Group 1-5,text,true,,770,323,3,3,https://restful-booker.herokuapp.com/auth,1220,0,912
+1790313698587,321,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,947,523,3,3,null,0,5005,0
+1790313703592,321,Booking Request,200,OK,Thread Group 1-5,text,true,,947,523,3,3,https://restful-booker.herokuapp.com/booking,321,0,0
+1790313697991,1214,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,778,323,3,3,null,0,5014,908
+1790313703005,1214,Authorization Request,200,OK,Thread Group 1-3,text,true,,778,323,3,3,https://restful-booker.herokuapp.com/auth,1214,0,908
+1790313697991,1215,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,778,323,3,3,null,0,5013,909
+1790313703004,1215,Authorization Request,200,OK,Thread Group 1-1,text,true,,778,323,3,3,https://restful-booker.herokuapp.com/auth,1215,0,909
+1790313703913,267,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,919,246,3,3,null,0,5012,0
+1790313708925,267,Retrival Request,200,OK,Thread Group 1-5,text,true,,919,246,3,3,https://restful-booker.herokuapp.com/booking/578,267,0,0
+1790313704219,256,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,947,523,3,3,null,0,5009,0
+1790313709228,256,Booking Request,200,OK,Thread Group 1-3,text,true,,947,523,3,3,https://restful-booker.herokuapp.com/booking,256,0,0
+1790313704219,266,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,947,523,3,3,null,0,5009,0
+1790313709228,266,Booking Request,200,OK,Thread Group 1-1,text,true,,947,523,3,3,https://restful-booker.herokuapp.com/booking,266,0,0
+1790313709484,278,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,919,246,3,3,null,0,5008,0
+1790313714492,278,Retrival Request,200,OK,Thread Group 1-3,text,true,,919,246,3,3,https://restful-booker.herokuapp.com/booking/635,278,0,0
+1790313709494,271,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,919,246,3,3,null,0,5013,0
+1790313714508,271,Retrival Request,200,OK,Thread Group 1-1,text,true,,919,246,3,3,https://restful-booker.herokuapp.com/booking/636,271,0,0
+1790313709192,1177,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,790,323,3,3,null,0,5011,870
+1790313714204,1177,Authorization Request,200,OK,Thread Group 1-5,text,true,,790,323,3,3,https://restful-booker.herokuapp.com/auth,1177,0,870
+1790313715381,253,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,947,523,3,3,null,0,5013,0
+1790313720394,253,Booking Request,200,OK,Thread Group 1-5,text,true,,947,523,3,3,https://restful-booker.herokuapp.com/booking,253,0,0
+1790313714771,1131,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,766,323,3,3,null,0,5004,891
+1790313719774,1131,Authorization Request,200,OK,Thread Group 1-3,text,true,,766,323,3,3,https://restful-booker.herokuapp.com/auth,1131,0,891
+1790313714779,1126,BP01_Authorization_Token,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,766,323,3,3,null,0,5012,874
+1790313719791,1126,Authorization Request,200,OK,Thread Group 1-1,text,true,,766,323,3,3,https://restful-booker.herokuapp.com/auth,1126,0,874
+1790313720647,268,BP03_BookingRetrievalRequst,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,923,246,3,3,null,0,5014,0
+1790313725661,268,Retrival Request,200,OK,Thread Group 1-5,text,true,,923,246,3,3,https://restful-booker.herokuapp.com/booking/731,268,0,0
+1790313725929,0,BP01_Authorization_Token,,,Thread Group 1-5,,true,,0,0,3,3,null,0,0,0
+1790313720906,251,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,951,523,2,2,null,0,5011,0
+1790313725917,251,Booking Request,200,OK,Thread Group 1-3,text,true,,951,523,2,2,https://restful-booker.herokuapp.com/booking,251,0,0
+1790313726168,0,BP03_BookingRetrievalRequst,,,Thread Group 1-3,,true,,0,0,2,2,null,0,0,0
+1790313720917,268,BP02_BookingRequest,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,951,523,1,1,null,0,5016,0
+1790313725933,268,Booking Request,200,OK,Thread Group 1-1,text,true,,951,523,1,1,https://restful-booker.herokuapp.com/booking,268,0,0
+1790313726201,0,BP03_BookingRetrievalRequst,,,Thread Group 1-1,,true,,0,0,1,1,null,0,0,0

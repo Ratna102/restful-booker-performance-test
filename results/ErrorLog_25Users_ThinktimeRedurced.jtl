@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1790316066880,5318,BP03_BookingRetrievalRequst,404,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-13,,false,,751,247,25,25,null,0,1002,0
+1790316067881,5318,Retrival Request,404,Not Found,Thread Group 1-13,text,false,"Test failed: text expected to contain /,""lastname"":/",751,247,25,25,https://restful-booker.herokuapp.com/booking/6255,5318,0,0
+1790316066690,6243,BP03_BookingRetrievalRequst,404,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-22,,false,,759,247,25,25,null,0,1012,0
+1790316067701,6243,Retrival Request,404,Not Found,Thread Group 1-22,text,false,"Test failed: text expected to contain /,""lastname"":/",759,247,25,25,https://restful-booker.herokuapp.com/booking/6275,6243,0,0

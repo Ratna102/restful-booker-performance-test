@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1790314837137,9271,BP03_BookingRetrievalRequst,404,,Thread Group 1-10,,false,,755,247,10,10,null,0,0,0
+1790314842145,4263,Retrival Request,404,Not Found,Thread Group 1-10,text,false,"Test failed: text expected to contain /,""lastname"":/",755,247,10,10,https://restful-booker.herokuapp.com/booking/5414,4263,0,0
+1790314838255,8257,BP03_BookingRetrievalRequst,404,,Thread Group 1-5,,false,,755,247,9,9,null,0,0,0
+1790314843256,3256,Retrival Request,404,Not Found,Thread Group 1-5,text,false,"Test failed: text expected to contain /,""lastname"":/",755,247,9,9,https://restful-booker.herokuapp.com/booking/5422,3256,0,0
+1790314838523,8277,BP03_BookingRetrievalRequst,404,,Thread Group 1-8,,false,,755,247,8,8,null,0,0,0
+1790314843534,3266,Retrival Request,404,Not Found,Thread Group 1-8,text,false,"Test failed: text expected to contain /,""lastname"":/",755,247,8,8,https://restful-booker.herokuapp.com/booking/5427,3266,0,0
+1790314838555,8277,BP03_BookingRetrievalRequst,404,,Thread Group 1-2,,false,,755,247,7,7,null,0,0,0
+1790314843567,3265,Retrival Request,404,Not Found,Thread Group 1-2,text,false,"Test failed: text expected to contain /,""lastname"":/",755,247,7,7,https://restful-booker.herokuapp.com/booking/5429,3265,0,0
+1790314841594,5251,BP03_BookingRetrievalRequst,404,,Thread Group 1-3,,false,,755,247,6,6,null,0,0,0
+1790314846596,249,Retrival Request,404,Not Found,Thread Group 1-3,text,false,"Test failed: text expected to contain /,""lastname"":/",755,247,6,6,https://restful-booker.herokuapp.com/booking/5454,249,0,0
